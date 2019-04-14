@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoritmoEvolutivo", "AlgoritmoEvolutivo\AlgoritmoEvolutivo.csproj", "{E6851FE6-7B47-47B4-8DDC-4D8C77F3CDAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6851FE6-7B47-47B4-8DDC-4D8C77F3CDAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6851FE6-7B47-47B4-8DDC-4D8C77F3CDAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6851FE6-7B47-47B4-8DDC-4D8C77F3CDAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6851FE6-7B47-47B4-8DDC-4D8C77F3CDAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F63AD3B1-F1C7-47D1-8E7C-5035EE4E4FE8}
+	EndGlobalSection
+EndGlobal

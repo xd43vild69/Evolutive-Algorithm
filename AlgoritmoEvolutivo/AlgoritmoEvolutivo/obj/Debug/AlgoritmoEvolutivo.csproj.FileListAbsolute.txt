@@ -1,0 +1,7 @@
+D:\Dev\MVM\AlgoritmoEvolutivo\AlgoritmoEvolutivo\AlgoritmoEvolutivo\bin\Debug\AlgoritmoEvolutivo.exe.config
+D:\Dev\MVM\AlgoritmoEvolutivo\AlgoritmoEvolutivo\AlgoritmoEvolutivo\bin\Debug\AlgoritmoEvolutivo.exe
+D:\Dev\MVM\AlgoritmoEvolutivo\AlgoritmoEvolutivo\AlgoritmoEvolutivo\bin\Debug\AlgoritmoEvolutivo.pdb
+D:\Dev\MVM\AlgoritmoEvolutivo\AlgoritmoEvolutivo\AlgoritmoEvolutivo\obj\Debug\AlgoritmoEvolutivo.csprojAssemblyReference.cache
+D:\Dev\MVM\AlgoritmoEvolutivo\AlgoritmoEvolutivo\AlgoritmoEvolutivo\obj\Debug\AlgoritmoEvolutivo.csproj.CoreCompileInputs.cache
+D:\Dev\MVM\AlgoritmoEvolutivo\AlgoritmoEvolutivo\AlgoritmoEvolutivo\obj\Debug\AlgoritmoEvolutivo.exe
+D:\Dev\MVM\AlgoritmoEvolutivo\AlgoritmoEvolutivo\AlgoritmoEvolutivo\obj\Debug\AlgoritmoEvolutivo.pdb
